@@ -19,6 +19,7 @@
 
 - [workspace369-mcp](https://github.com/Workspace369-LLC/workspace369-mcp): our official remote MCP server. Connect Claude, ChatGPT, Cursor or VS Code to your workspace at `https://mcp.workspace369.com/mcp`.
 - [Builder API](https://docs.workspace369.com/v/2026.3/build-with-ai/call-workspace369-over-http-builder-api/): REST endpoints with an [OpenAPI spec](https://mcp.workspace369.com/v1/openapi.json), for apps built with Lovable, v0, Bolt or Replit.
+- [crm-starter](https://github.com/Workspace369-LLC/crm-starter): a Next.js CRM template on Workspace369, with a sample-data mode that needs no account.
 - [Build a custom CRM with an AI coding agent](https://docs.workspace369.com/v/2026.3/build-with-ai/build-a-custom-crm-with-an-ai-coding-agent/): Workspace369 stays the system of record, and your agent builds the screens.
 
 Security reports: support@workspace369.com ([policy](https://workspace369.com/security/)).
